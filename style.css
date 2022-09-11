@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -1040,3 +1040,4 @@ h4 {
         text-align: center;
     }
 }
+
